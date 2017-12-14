@@ -1,0 +1,7 @@
+for (let el of input) {
+~~~~~~~~~~~~~~~~~~~~~~~
+    output.push(el * 2);
+~~~~~~~~~~~~~~~~~~~~
+}
+~   [0]
+[0]: Expected a map-function instead of a 'forof' loop

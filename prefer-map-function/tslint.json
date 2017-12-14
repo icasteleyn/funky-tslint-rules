@@ -1,0 +1,6 @@
+{
+  "rulesDirectory": "../../../build/src/rules",
+  "rules": {
+    "prefer-map-function": [true, "jsScriptTarget", "ES3"]
+  }
+}
